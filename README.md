@@ -1,5 +1,5 @@
 # Menor-caminho
-calcula a menor distância necessária para percorrer um grafo em que as arestas tem peso positivo utilizando o algoritmo de Dijkstra.
+Esse projeto calcula a menor distância necessária para percorrer um grafo em que as arestas tem peso positivo utilizando o algoritmo de Dijkstra. Foi feito para pessoas que estão aprendendo teoria dos grafos e algoritmos de caminhos mínimos. Ele pode ser utilizado como exemplo para compreender o funcionamento do algoritmo de Dijkstra.
 
 ## Demonstração
 ![a imagem abaixo demonstra o funcionamento do programa](IMAGENS/IMG_0395.jpeg)
